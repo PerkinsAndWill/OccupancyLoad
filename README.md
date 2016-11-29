@@ -1,1 +1,1 @@
-# Luc's Demo
+# Figuring out how to use Git to add scripts to the P+W catalog
