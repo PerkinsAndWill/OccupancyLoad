@@ -2,7 +2,7 @@
   "title":"Calculate Occupancy Load",
   "description":"Calculates the occupant load for Rooms or Areas in Revit, using the size of the element and the occupant load factor, and pushes the result to an occupant load parameter in the Revit element",
   "coverImage":"./_PW/cover.png",
-  "tags":["Revit","Dynamo"]
+  "tags":["Revit","Dynamo"],
   "authors"::[{
     "name":"Luc Deckinga",
     "email":"Luc.Deckinga@perkinswill.com",
