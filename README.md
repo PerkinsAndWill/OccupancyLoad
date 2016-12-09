@@ -1,1 +1,1 @@
-# Figuring out how to use Git to add scripts to the P+W catalog
+# This readme contains a description of the script. 
